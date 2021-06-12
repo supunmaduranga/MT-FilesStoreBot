@@ -30,33 +30,33 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍ **Developer:** @AbirHasan2005
+🧑🏻‍ **Developer:** @slbotzone 
 
-👨‍💻 **Editing:** @Mrk_YT
+👨‍💻 **Editing:** @supunma
 
-📺 **Support:** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
+📺 **Support:** [YouTube Channel](https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA?sub_confirmation=1)
 
-🗣️ **Any Doubt:** @Mo_Tech_Group
+🗣️ **Any Doubt:** @slbotzone
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📢 **Updates Channel:** [slbotzone Projects](https://t.me/sl_bot_zone)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍ **Developer:** @AbirHasan2005
+🧑🏻‍ **Developer:** @slbotzone
 
-💻 **Developer Details:** [Clcik Here](https://github.com/MoTechYT/MT-FilesStoreBot/blob/main/README.md)
+💻 **Developer Details:** [Clcik Here](https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA?sub_confirmation=1)
 
-👨‍💻 **Editing:** @Mrk_YT
+👨‍💻 **Editing:** @supunma
 
-🗣️ **Any Doubt:** @Mo_Tech_Group
+🗣️ **Any Doubt:** @slbotzone
 
-📺 **Support :** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
+📺 **Support :** [YouTube Channel](https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA?sub_confirmation=1)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📢 **Updates Channel:** [slbotzone Projects](https://t.me/sl_bot_zone)
 
 Donate Now (coming soon)
 """
 	HOME_TEXT = """
-**👋Hi**, [{}](tg://user?id={})\n\n**This is Permanent** **MT FileStoreBot**.
+**👋Hi**, [{}](tg://user?id={})\n\n**This is Permanent** ** slbotzone  FileStoreBot**.
 
 **Send me any file I will give you a permanent Sharable Link. I Support Channel Also! Check About Bot Button**.
 """
